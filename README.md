@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Matt. I am a full-stack developer with a background in physics and mathematics. I like creating things and solving problems.
+![alt text](./header.png)
+
+I am a full-stack developer with a background in physics and mathematics. I like creating things and solving problems.
 
 ![](https://komarev.com/ghpvc/?username=mattquint111)
 
