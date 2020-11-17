@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Matt. I am a full-stack developer with a background in physics and mathematics. I like creating things and solving problems.
 <!--
 **mattquint111/mattquint111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
