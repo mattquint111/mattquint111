@@ -1,8 +1,8 @@
+![](https://komarev.com/ghpvc/?username=mattquint111)
+
 ![alt text](./header.png)
 
 I am a full-stack developer with a background in physics and mathematics. I like creating things and solving problems.
-
-![](https://komarev.com/ghpvc/?username=mattquint111)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattquint111&show_icons=true&theme=tokyonight)
 
