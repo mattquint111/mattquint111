@@ -4,8 +4,6 @@
 
 I am a full-stack developer with a background in physics and mathematics. I like creating things and solving problems.
 
-/*![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattquint111&show_icons=true&theme=tokyonight)*/
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattquint111)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
