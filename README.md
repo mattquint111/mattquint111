@@ -4,6 +4,7 @@
 
 I am a full-stack developer with a background in physics and mathematics. I like creating things and solving problems.
 
+# <h2 align="center"> [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=mattquint111&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mattquint111&theme=blue-green)
 <!--
 **mattquint111/mattquint111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
